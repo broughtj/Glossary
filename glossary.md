@@ -4,6 +4,8 @@ __Market Asymetry__: (BDZ 7/27/2017)
 
 __No-Trade Theorem__: (BDZ 7/27/2017)
 
+__Carry-Charge Hedging__: Also known as _synthetic storage_ as discussed in Culp & Miller (1995a,b) and practiced by MGRM, Enron, and Cargill.
+
 
 # Economics Terms
 
